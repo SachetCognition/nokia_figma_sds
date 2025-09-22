@@ -1,5 +1,7 @@
 # Simple Design System (alpha)
 
+<!-- Verification comment added by Devin for workflow testing -->
+
 Using Figma's [Code Connect](https://github.com/figma/code-connect).
 
 Simple Design System (SDS) is a base design system that shows how Figma’s Variables, Styles, Components, and Code Connect can be used alongside a React codebase to form a complete picture of a responsive web design system.
